@@ -17,4 +17,14 @@ public double getXP(){
 public double getYP(){
 	return yp;
 }
+/*
+boolean containsObjectOfType(double xr, double yr){
+	 for (int i=0; i<o.length();i++){
+	  if (shelf.get(i).getClass().equals(o.getClass())){
+	   return true;
+	  }
+	 }
+	return false;
+	}
+	*/
 }
